@@ -1,0 +1,29 @@
+---
+title: "Ladder of designs for non-comparable forecast sets"
+status: stub
+---
+
+Used in: theory (core), workflow (cite), vignette (brief), course module 4
+
+## Key question
+
+<!-- One question this concept answers for an evaluator. -->
+
+## Claims and evidence
+
+| Claim | Evidence | Source |
+|---|---|---|
+| | | |
+
+## Tools
+
+<!-- scoringutils functions, other packages, or none yet. -->
+
+## Sources
+
+- `sources/evaluation-design-sketch.qmd`, section 2
+- `sources/workflows_evaluation-vignette-plan.md`, sections 4-5
+
+## Open questions
+
+-

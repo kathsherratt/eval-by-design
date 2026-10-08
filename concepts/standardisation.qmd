@@ -1,0 +1,28 @@
+---
+title: "Standardisation and where it fails"
+status: stub
+---
+
+Used in: theory (example), course module 4 (example)
+
+## Key question
+
+<!-- One question this concept answers for an evaluator. -->
+
+## Claims and evidence
+
+| Claim | Evidence | Source |
+|---|---|---|
+| | | |
+
+## Tools
+
+<!-- scoringutils functions, other packages, or none yet. -->
+
+## Sources
+
+- eval-by-method `attic/regime-standardised-scores.qmd` (linked, not copied: depends on eval-by-method data)
+
+## Open questions
+
+-

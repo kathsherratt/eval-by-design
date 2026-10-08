@@ -1,0 +1,29 @@
+---
+title: "Uncertainty in comparisons: bootstrap, model confidence sets, levels of uncertainty"
+status: stub
+---
+
+Used in: theory (core), workflow (brief), vignette (brief), course module 4
+
+## Key question
+
+<!-- One question this concept answers for an evaluator. -->
+
+## Claims and evidence
+
+| Claim | Evidence | Source |
+|---|---|---|
+| | | |
+
+## Tools
+
+<!-- scoringutils functions, other packages, or none yet. -->
+
+## Sources
+
+- `sources/workflows_10-simple-rules.md`, open questions
+- `sources/evaluation-design-sketch.qmd`, section 6
+
+## Open questions
+
+-

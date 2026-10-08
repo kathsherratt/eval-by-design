@@ -1,0 +1,29 @@
+---
+title: "Summarising: overall, by stratum, with counts"
+status: stub
+---
+
+Used in: workflow (core), vignette (core), course module 3
+
+## Key question
+
+<!-- One question this concept answers for an evaluator. -->
+
+## Claims and evidence
+
+| Claim | Evidence | Source |
+|---|---|---|
+| | | |
+
+## Tools
+
+<!-- scoringutils functions, other packages, or none yet. -->
+
+## Sources
+
+- `sources/workflows_10-simple-rules.md`
+- `sources/workflows_evaluation-vignette-plan.md`, section 3
+
+## Open questions
+
+-

@@ -1,0 +1,29 @@
+---
+title: "Before scoring: target, data vintages, holdout, strata, baseline"
+status: stub
+---
+
+Used in: workflow (core), vignette (core), course module 2
+
+## Key question
+
+<!-- One question this concept answers for an evaluator. -->
+
+## Claims and evidence
+
+| Claim | Evidence | Source |
+|---|---|---|
+| | | |
+
+## Tools
+
+<!-- scoringutils functions, other packages, or none yet. -->
+
+## Sources
+
+- `sources/workflows_10-simple-rules.md`
+- `sources/workflows_evaluation-vignette-plan.md`, section 1
+
+## Open questions
+
+-

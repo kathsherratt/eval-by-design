@@ -1,0 +1,29 @@
+---
+title: "Ranks: robustness, uncertainty, item response theory"
+status: stub
+---
+
+Used in: theory (core), workflow (brief), vignette (maybe), course module 4
+
+## Key question
+
+<!-- One question this concept answers for an evaluator. -->
+
+## Claims and evidence
+
+| Claim | Evidence | Source |
+|---|---|---|
+| | | |
+
+## Tools
+
+<!-- scoringutils functions, other packages, or none yet. -->
+
+## Sources
+
+- `sources/ranking-literature-scoping.qmd`, `sources/ranking-literature.bib`
+- `sources/evaluation-design-sketch.qmd`, section 6
+
+## Open questions
+
+-

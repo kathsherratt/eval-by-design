@@ -1,0 +1,30 @@
+---
+title: "DAGs, estimands, confounders and colliders"
+status: stub
+---
+
+Used in: theory (core), workflow (brief), course module 5
+
+## Key question
+
+<!-- One question this concept answers for an evaluator. -->
+
+## Claims and evidence
+
+| Claim | Evidence | Source |
+|---|---|---|
+| | | |
+
+## Tools
+
+<!-- scoringutils functions, other packages, or none yet. -->
+
+## Sources
+
+- `sources/evaluation-design-sketch.qmd`, section 3
+- `sources/dag-reasoning-sketch.qmd` (from eval-by-method branch `paper/dag-reasoning`)
+- `sources/model-building.qmd` (early cohort framing)
+
+## Open questions
+
+-

@@ -1,0 +1,32 @@
+---
+title: "Concept by output map"
+---
+
+Core: the output develops the concept. Brief: a paragraph or a rule. Cite: points to another output. Blank: not used.
+
+| Concept | Theory paper | Workflow paper | Vignette | Course |
+|---|---|---|---|---|
+| [Design axis](concepts/design-axis.qmd) | core | core | core | 1 |
+| [Aim axis](concepts/aim-axis.qmd) | brief | core | core | 1 |
+| [Two processes](concepts/two-processes.qmd) | core | brief | brief | 1 |
+| [Before scoring](concepts/before-scoring.qmd) | | core | core | 2 |
+| [Scoring](concepts/scoring.qmd) | | core | core | 2 |
+| [Summarising](concepts/summarising.qmd) | | core | core | 3 |
+| [Ladder of designs](concepts/design-ladder.qmd) | core | cite | brief | 4 |
+| [DAGs and estimands](concepts/dags-and-estimands.qmd) | core | brief | | 5 |
+| [Standardisation](concepts/standardisation.qmd) | example | | | 4 |
+| [Ranks](concepts/ranks.qmd) | core | brief | maybe | 4 |
+| [Comparison uncertainty](concepts/comparison-uncertainty.qmd) | core | brief | brief | 4 |
+| [Target informativeness](concepts/target-informativeness.qmd) | open | brief | | 6 |
+| [Reporting](concepts/reporting.qmd) | recommendations | core | brief | 6 |
+| [Temporal coherence](concepts/temporal-coherence.qmd) | | brief | signpost | optional |
+
+## Gaps
+
+- The experimental design side is thin across all sources. Target informativeness (item discrimination) is the main lead.
+- The theory paper and the workflow paper both describe the ladder. One owns it, the other cites it.
+
+## Shared simulator
+
+`sim/` serves three outputs: the theory paper's scenarios, the vignette's example data (open question 1 in the vignette plan), and course exercises.
+Random target choice (`lambda = 0`) gives an experimental set-up; choice that depends on difficulty (`lambda > 0`) gives an observational one.

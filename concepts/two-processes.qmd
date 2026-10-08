@@ -1,0 +1,29 @@
+---
+title: "Two processes: forecast-generating and target-generating"
+status: stub
+---
+
+Used in: theory (core), workflow (brief), vignette (brief), course module 1
+
+## Key question
+
+<!-- One question this concept answers for an evaluator. -->
+
+## Claims and evidence
+
+| Claim | Evidence | Source |
+|---|---|---|
+| | | |
+
+## Tools
+
+<!-- scoringutils functions, other packages, or none yet. -->
+
+## Sources
+
+- eval-by-method `report/quarto/_background.qmd`, Figure 1
+- `sources/evaluation-design-sketch.qmd`, section 1
+
+## Open questions
+
+-

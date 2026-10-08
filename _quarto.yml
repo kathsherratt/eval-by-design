@@ -1,0 +1,19 @@
+project:
+  type: website
+  render:
+    - index.qmd
+    - map.qmd
+    - concepts/*.qmd
+
+website:
+  title: "eval-by-design"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: map.qmd
+        text: Map
+
+format:
+  html:
+    toc: true
