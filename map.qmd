@@ -3,23 +3,24 @@ title: "Concept by output map"
 ---
 
 Core: the output develops the concept. Brief: a paragraph or a rule. Cite: points to another output. Blank: not used.
+Sources are in `sources/` unless marked eval-by-method.
 
-| Concept | Theory paper | Workflow paper | Vignette | Course |
-|---|---|---|---|---|
-| [Design axis](concepts/design-axis.qmd) | core | core | core | 1 |
-| [Aim axis](concepts/aim-axis.qmd) | brief | core | core | 1 |
-| [Two processes](concepts/two-processes.qmd) | core | brief | brief | 1 |
-| [Before scoring](concepts/before-scoring.qmd) | | core | core | 2 |
-| [Scoring](concepts/scoring.qmd) | | core | core | 2 |
-| [Summarising](concepts/summarising.qmd) | | core | core | 3 |
-| [Ladder of designs](concepts/design-ladder.qmd) | core | cite | brief | 4 |
-| [DAGs and estimands](concepts/dags-and-estimands.qmd) | core | brief | | 5 |
-| [Standardisation](concepts/standardisation.qmd) | example | | | 4 |
-| [Ranks](concepts/ranks.qmd) | core | brief | maybe | 4 |
-| [Comparison uncertainty](concepts/comparison-uncertainty.qmd) | core | brief | brief | 4 |
-| [Target informativeness](concepts/target-informativeness.qmd) | open | brief | | 6 |
-| [Reporting](concepts/reporting.qmd) | recommendations | core | brief | 6 |
-| [Temporal coherence](concepts/temporal-coherence.qmd) | | brief | signpost | optional |
+| Concept | Sources | Theory paper | Workflow paper | Vignette | Course |
+|---|---|---|---|---|---|
+| Design axis: who chose the forecast set | vignette plan, Framing; 10 rules, starting points; sketch §1 | core | core | core | 1 |
+| Aim axis: describe, compare, explain | vignette plan, Framing; 10 rules, depth | brief | core | core | 1 |
+| Two processes: forecast- and target-generating | eval-by-method `_background.qmd`, Figure 1; sketch §1 | core | brief | brief | 1 |
+| Before scoring: target, vintages, holdout, strata, baseline | 10 rules; vignette plan §1 | | core | core | 2 |
+| Scoring: proper scores, calibration, metrics, scale | 10 rules; vignette plan §2 | | core | core | 2 |
+| Summarising: overall, by stratum, with counts | 10 rules; vignette plan §3 | | core | core | 3 |
+| Ladder of designs | sketch §2; vignette plan §4-5 | core | cite | brief | 4 |
+| DAGs, estimands, colliders | sketch §3; DAG-reasoning sketch; model-building (early) | core | brief | | 5 |
+| Standardisation and its limits | eval-by-method `attic/regime-standardised-scores.qmd` | example | | | 4 |
+| Ranks: robustness, uncertainty, IRT | ranking scoping; sketch §6 | core | brief | maybe | 4 |
+| Uncertainty in comparisons | 10 rules, open questions; sketch §6 | core | brief | brief | 4 |
+| Target informativeness | ranking scoping, IRT discrimination | open | brief | | 6 |
+| Reporting: subsets, post-hoc labels, checklists | 10 rules; vignette plan §6 | recommendations | core | brief | 6 |
+| Temporal coherence | 10 rules; eval-by-method `attic/future-work.qmd` | | brief | signpost | optional |
 
 ## Gaps
 

@@ -3,7 +3,6 @@ project:
   render:
     - index.qmd
     - map.qmd
-    - concepts/*.qmd
 
 website:
   title: "eval-by-design"

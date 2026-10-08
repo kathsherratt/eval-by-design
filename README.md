@@ -14,8 +14,7 @@ Companion to [eval-by-method](https://github.com/epiforecasts/eval-by-method), w
 | Directory | Contents |
 |---|---|
 | `sources/` | Original notes and sketches, copied unedited. Read-only reference |
-| `concepts/` | One note per idea: key question, claims and evidence, tools, sources |
-| `map.qmd` | Concept by output matrix |
+| `map.qmd` | Concept by output matrix, with pointers into `sources/` |
 | `sim/` | Shared simulator of forecasts, targets and target choice |
 | `outputs/` | One directory per planned output |
 

@@ -1,6 +1,6 @@
 # Course on forecast evaluation
 
-Status: idea. Modular, assembled from `concepts/` with exercises from `sim/`.
+Status: idea. Modular, assembled from the concepts in `map.qmd` with exercises from `sim/`.
 
 | Module | Concepts |
 |---|---|
