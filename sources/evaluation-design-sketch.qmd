@@ -1,5 +1,5 @@
 ---
-title: "Designing comparative forecast evaluation: a sketch"
+title: "Designing forecast evaluation"
 subtitle: "Separate methods piece proposed in issue #174"
 author: "Kath Sherratt"
 date: 2026-09-24
@@ -15,7 +15,7 @@ Each rung estimates a different quantity, and they can rank the same forecasters
 We set out the ladder with the estimand and assumption at each rung, use a DAG to make the assumptions checkable, and show by simulation where each rung recovers true skill and where it fails.
 The recommendation is to state the estimand first and match the formality of the design to the question and the data.
 
-## Where the material comes from
+## Material
 
   | Source                                                                                                                                                                                          | Contributes                                                                                                        |
   | ---                                                                                                                                                                                             | ---                                                                                                                |

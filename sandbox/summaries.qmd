@@ -1,0 +1,61 @@
+---
+title: Averaging ratios
+---
+
+Aim: Explore properties of different averaging methods across relative skill ratios Scope: Demo comparinng each pythagorean mean (arithmetic, geometric, harmonic) to summarise a set of familiar relative skill scores Problem: Relative skill metrics produce a score for each forecaster, but it's not clear how to aggregate these into a single summary, as each ratio itself is a summary of a different composition of forecasts Approach: Using sample Hub data take comparable scoring metrics, summarise with each mean, as simple and close to existing similar demos as possible, with open questions for testing this on more extreme or simulated data
+
+--------------------------------------------------------------------------------
+
+## Data
+
+Code: load in as per the Bosse 2023 scoring transforms paper
+
+### Forecast target
+
+Code: summarise N targets over time
+
+### Forecasters
+
+Code/table: N over time
+
+Table 1: characteristics (table 1 epi)
+
+Figure: contribution of forecasters to each target
+
+## Scores
+
+### Forecaster accuracy
+
+Figure: baseline forecaster scores
+
+Figure: freqpoly density of raw interval scores, baseline reference as dashed line
+
+Figure: composition of interval scores
+
+### Relative scores
+
+Code: shows relative skill scores against baseline Figure: baseline forecaster vs distribution of forecasters
+
+Figure:
+
+## Summarising scores
+
+### Summarising the relative skill
+
+Code: summarises relative skill score into arithmetic, geometric, harmonic, by (1) all forecasts, (2) by target (3) by forecaster
+
+### Comparing pythagorean means
+
+Figure: arithmetic, geometric, and harmonic
+
+--------------------------------------------------------------------------------
+
+# Appendix
+
+## Alternative scoring metrics
+
+Code: repeat the above but summarising
+
+- scores as MAE
+- scores as CRPS(S)
+- each component of the WIS alone

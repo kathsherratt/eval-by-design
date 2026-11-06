@@ -1,11 +1,21 @@
 # Simulator
 
-Not started.
+Data-generating processes as in `sources/evaluation-design-sketch.qmd` 
 
-Data-generating process specified in `sources/evaluation-design-sketch.qmd`, section 4:
-forecaster skill, target difficulty (observed and unobserved), scores with a log mean of skill plus difficulty,
-and a submission model whose dependence on difficulty (`lambda`) moves the set-up from experimental to observational.
+- forecaster processes
+  - forecast, observable (model features, data sources)
+  - forecast, unobservable (strategy, resources, choice of target)
+- target processes
+  - predictability, observable (observation process e.g. data revisions)
+  - predictability, unobserved (epidemiological system e.g. immunity)
+
+---
+
+- scoring process
+  - transforms
+  - aggregations
+  - baseline choice
+  - metrics
+  - presentation (continuous, ranked)
 
 Template for code layout: `yardstick/scratchpad/sim-calibration/sim-calibration.R`.
-
-Used by: theory paper (scenarios), vignette (example data), course (exercises).
